@@ -1,14 +1,14 @@
 # Leo's Music Store for React Native
 
-This is an App that simulates Leo's Music Store in React Native. 
+This is an App that simulates Leo's Music Store in React Native, integrating React Native with Segment. 
 
 ## Getting Started
 
 To get started with React Native and Segment, you should perform the following steps:
 
-- Install Expo
+- Install [Expo](https://docs.expo.dev/get-started/installation/)
 - Initialize a React Native Application (preferrably in TypeScript)
-- Install Segment for React Native
+- Install [Segment for React Native](https://github.com/segmentio/analytics-react-native)
 
     ```bash
     yarn add @segment/analytics-react-native @segment/sovran-react-native @react-native-async-storage/async-storage
