@@ -8,14 +8,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@segment/analytics-react-native": "^2.14.0",
-    "@segment/sovran-react-native": "^1.0.2",
-    "expo": "~48.0.15",
-    "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.7",
+    "@react-native-firebase/app": "^20.4.0",
+    "@segment/analytics-react-native": "^2.19.4",
+    "@segment/sovran-react-native": "^1.1.2",
+    "expo": "~51.0.29",
+    "expo-splash-screen": "~0.27.5",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.3.1",
+    "react-native": "0.75.2",
     "react-native-get-random-values": "^1.8.0",
-    "expo-splash-screen": "~0.18.2"
+    "react-native-gradle-plugin": "^0.71.19"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
