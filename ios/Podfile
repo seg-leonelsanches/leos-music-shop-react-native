@@ -19,7 +19,6 @@ platform :ios, podfile_properties['ios.deploymentTarget'] || '14.0'
 install! 'cocoapods',
   :deterministic_uuids => false
 
-use_modular_headers!
 prepare_react_native_project!
 
 target 'leosmusicshopreactnative' do
