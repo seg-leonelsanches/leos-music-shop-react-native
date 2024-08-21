@@ -8,7 +8,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-firebase/app": "^20.4.0",
     "@segment/analytics-react-native": "^2.19.4",
     "@segment/sovran-react-native": "^1.1.2",
     "expo": "~51.0.29",
